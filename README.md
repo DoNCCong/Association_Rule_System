@@ -5,6 +5,6 @@ Phase 2: Association Rule
 
 Code Demo:
 
-![ Apriori ](https://github.com/DoNCCong/Association_Rule_System/blob/main/Apriori%20Algorithm.ipynb)
+[ Apriori ](https://github.com/DoNCCong/Association_Rule_System/blob/main/Apriori%20Algorithm.ipynb)
 
-![FP-Growth](https://github.com/DoNCCong/Association_Rule_System/blob/main/FP-Growth.ipynb)
+[FP-Growth](https://github.com/DoNCCong/Association_Rule_System/blob/main/FP-Growth.ipynb)
